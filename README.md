@@ -1,1 +1,3 @@
-# cs320-lab2
+# Pending & Co.
+
+We get the job done...eventually!
